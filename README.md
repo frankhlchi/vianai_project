@@ -1,4 +1,4 @@
-# vianai project 
+# Vianai project 
 # required Python package: 
 - pandas
 - numpy
