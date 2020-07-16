@@ -14,7 +14,7 @@
 
 green_tripdata_2015-09.csv (Green Taxis for September 2015, from https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
-./nyu_2451_36743_WGS84/nyu_2451_36743.shp, (included in this project, or can be downloaded from https://archive.nyu.edu/handle/2451/36743)
+nyu_2451_36743.shp, (included in this project (nyu_2451_36743_WGS84/nyu_2451_36743.shp), or can be downloaded from https://archive.nyu.edu/handle/2451/36743)
 
 - Green Taxi analysis part-2.ipynb
 
